@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96a3864-852d-4c68-a90c-a730a15de4c1" name="Changes" comment="" />
+    <list default="true" id="d96a3864-852d-4c68-a90c-a730a15de4c1" name="Changes" comment="removed \ from screenshot links">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +89,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674701275335</updated>
     </task>
+    <task id="LOCAL-00001" summary="removed \ from screenshot links">
+      <created>1674704594123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674704594123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed \ from screenshot links" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed \ from screenshot links" />
   </component>
 </project>
