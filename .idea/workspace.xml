@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96a3864-852d-4c68-a90c-a730a15de4c1" name="Changes" comment="removed \ from screenshot links">
+    <list default="true" id="d96a3864-852d-4c68-a90c-a730a15de4c1" name="Changes" comment="it really do be like this sometimes (reformatted readme)">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minesweeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/minesweeper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +97,42 @@
       <option name="project" value="LOCAL" />
       <updated>1674704594123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added / to screenshot links">
+      <created>1674704706359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674704706359</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added / to screenshot links">
+      <created>1674704733643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674704733643</updated>
+    </task>
+    <task id="LOCAL-00004" summary="reformatted readme... again">
+      <created>1674704761150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674704761150</updated>
+    </task>
+    <task id="LOCAL-00005" summary="it really do be like this sometimes (reformatted readme)">
+      <created>1674704876564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674704876564</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed \ from screenshot links" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed \ from screenshot links" />
+    <MESSAGE value="added / to screenshot links" />
+    <MESSAGE value="reformatted readme... again" />
+    <MESSAGE value="it really do be like this sometimes (reformatted readme)" />
+    <option name="LAST_COMMIT_MESSAGE" value="it really do be like this sometimes (reformatted readme)" />
   </component>
 </project>

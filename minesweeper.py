@@ -359,7 +359,7 @@ def start_menu():
     hard_button.pack(side="top")
 
     help_button = Button(button_frame, text="Help",
-                         height=4,
+                         height=3,
                          width=15,
                          bg="dodger blue",
                          command=help_window)
@@ -367,7 +367,7 @@ def start_menu():
     button_frame.pack(side="top")
 
     # My name to the bottom.
-    team = Label(text="Rahman Gamble\n")
+    team = Label(text="Rahman Gamble")
     team.pack(side="bottom")
 
     mainloop()

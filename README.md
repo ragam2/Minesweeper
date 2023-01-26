@@ -15,6 +15,7 @@ Pressing the help button will open a window explaining the rules of the game.
 
 ## Board
 
+The board will consist of the size chosen (8x8, 10x10, or 15x15). In order to play another difficulty, exit the window and launch the program again. Alternatively, achieve victory or defeat to receive the option to try again or quit.
 ![Pic of the game board](screenshots/board.png)
 
 ### License
